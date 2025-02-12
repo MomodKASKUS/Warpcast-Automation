@@ -1,7 +1,7 @@
 # Warpcast-Automation
 Warpcast Bot Automation Tool
 
-This project is an automation tool designed to streamline and simplify warpcast management. 
+This project is an automation tool designed to streamline and simplify warpcast management.
 
 With this platform, users can schedule posts, track engagement metrics, and analyze performance data Auto Follow/UnFollow, auto like/recast timeline. 
 
